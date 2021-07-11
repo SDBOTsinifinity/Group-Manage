@@ -46,7 +46,7 @@
       },
 "GRAND_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/066343aa558e9348abadb.jpg"    
+         "value": "https://telegra.ph/file/ee765122be6f7a7098848.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -114,7 +114,7 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/066343aa558e9348abadb.jpg",
+   "logo": "https://telegra.ph/file/ee765122be6f7a7098848.jpg",
    "name": "sl bot Official",
-   "repository": "https://github.com/sl-bot-Official/Group-Manage"
+   "repository": "https://github.com/SDBOTsinifinity/Group-Manage"
 }
